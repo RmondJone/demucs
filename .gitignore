@@ -1,6 +1,7 @@
 *.egg-info
 __pycache__
 Session.vim
+.idea
 /build
 /dist
 /lab
